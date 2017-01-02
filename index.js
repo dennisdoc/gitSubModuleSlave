@@ -9,9 +9,6 @@ var SnowflakeApp = function() {
    * @private
    */
   this.camera_ = null;
-
-  
-  
   
   /**
    * @type {THREE.Scene}
