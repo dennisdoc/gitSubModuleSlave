@@ -13,6 +13,7 @@ var SnowflakeApp = function() {
   console.log("snow flake app 1- submodule do projeto 1");
   
   
+  
   /**
    * @type {THREE.Scene}
    * @private
