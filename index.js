@@ -10,7 +10,7 @@ var SnowflakeApp = function() {
    */
   this.camera_ = null;
 
-  
+  console.log("snow flake app 1- submodule do projeto 1");
   
   
   /**
